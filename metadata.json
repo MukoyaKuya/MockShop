@@ -1,0 +1,7 @@
+{
+  "name": "MockShop AI",
+  "description": "Raw, brutalist high-performance AI mockup generator for the bold.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
